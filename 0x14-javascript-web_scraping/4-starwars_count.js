@@ -1,7 +1,4 @@
 #!/usr/bin/node
-// A script that prints the number of movies where the character Wedge Antilles is present
-
-#!/usr/bin/node
 
 const request = require('request');
 const starWarsUri = process.argv[2];
